@@ -7,3 +7,5 @@ Tech stack
 - Combine
 - MVVM
 - AsyncImage
+
+Rick and Morty Rest Api Documentation - https://rickandmortyapi.com/documentation/#rest
